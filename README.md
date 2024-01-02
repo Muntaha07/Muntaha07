@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Muntaha07/Muntaha07/blob/master/banner.jpeg)
 <h1 align="center">Hi 👋, I'm Muntaha Majeed</h1>
 <h3 align="center">A passionate frontend developer from Srinager</h3>
 
